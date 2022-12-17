@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-7/root/usr/bin/ar cr libleptjson.a  CMakeFiles/leptjson.dir/leptjson.c.o
+/opt/rh/devtoolset-7/root/usr/bin/ranlib libleptjson.a
